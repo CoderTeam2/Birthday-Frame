@@ -1,0 +1,13 @@
+canvas{
+    border: 2px solid black;
+}
+
+#h{
+    box-shadow: -5px -10px #888888;
+    background-color: white;
+}
+
+body{
+    background-image: url("https://i.pinimg.com/originals/87/7e/c2/877ec22ddceae822b7cec0fcab47d089.png");
+    background-position: center;
+}
